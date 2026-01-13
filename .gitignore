@@ -38,6 +38,7 @@ db/strategy_encryption.key
 !symbols.csv
 !all_symbols.csv
 !data/qtyfreeze.csv
+!strategies/*.csv
 
 # Environments 
 .env 
